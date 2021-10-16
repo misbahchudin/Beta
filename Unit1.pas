@@ -86,7 +86,7 @@ procedure TForm1.Button2Click(Sender: TObject);
 var
   bmp: TBitmap;
 begin
-{Perkembangan Gambar yang baik}
+{Create Component Images}
   try
     bmp := TBitmap.Create;
     try
@@ -99,6 +99,7 @@ begin
       printer.Canvas.Draw(10, 10, bmp);
       printer.EndDoc;
     finally
+    {Release Component when Finish Code}
       bmp.Free;
     end;
 
