@@ -86,7 +86,7 @@ procedure TForm1.Button2Click(Sender: TObject);
 var
   bmp: TBitmap;
 begin
-{Images}
+{Perkembangan Gambar yang baik}
   try
     bmp := TBitmap.Create;
     try
