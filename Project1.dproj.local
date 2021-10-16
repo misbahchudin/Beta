@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/04/02 10.01.19.000.075,=C:\Users\msb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/02 10.02.35.000.564,=C:\Users\msb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/05 16.18.29.000.616,=C:\Users\msb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/28 16.33.44.000.826,=C:\Users\msb\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/28 16.57.24.000.779,C:\Users\msb\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\~\Prototype XE7\Print\Unit1.dfm</Transaction>
+    <Transaction>2019/04/28 16.57.24.000.779,C:\Users\msb\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\~\Prototype XE7\Print\Unit1.pas</Transaction>
+    <Transaction>2019/04/28 16.57.25.000.701,C:\Users\msb\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\~\Prototype XE7\Print\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
