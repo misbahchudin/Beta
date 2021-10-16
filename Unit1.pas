@@ -86,13 +86,14 @@ procedure TForm1.Button2Click(Sender: TObject);
 var
   bmp: TBitmap;
 begin
+{Images}
   try
     bmp := TBitmap.Create;
     try
       bmp.Width  := 400;
       bmp.Height := 400;
       // your Barcode - Code here
-      bmp.LoadFromFile('D:\IMAGE\BMP\32\administrator_cancel_32.bmp');
+      bmp.LoadFromFile(ExtractFileDir(Application.ExeName)+'/picture.bmp');
       bmp.Canvas.Ellipse(10, 10, 300, 300);
       printer.BeginDoc;
       printer.Canvas.Draw(10, 10, bmp);
